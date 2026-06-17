@@ -1,0 +1,44 @@
+identifiant de maladie (oui) (setters à faire)
+niveau de maladie (oui) (setters à faire)
+ajouter specialité au doctor (tableau de maladie) (oui)
+1ere regle
+chaque niveau doit etre superieur ou egal 0
+
+fonction traiter les patients (dans Doctor)
+niveau de maladie-- si dans la specialité du doctor
+
+(Dans patient) getAretina
+retourne tableau de maladie qui agit encore (oui)
+
+
+12-01-2000 (M1, M3)
+23-11-2003 (M5, M4)
+20-10-1994 (M2, M3)
+12-03-2010 (M1, M2)
+
+---------------------------------------
+Chaque personnes a une coordonnées 2 dimensionnels (OUI)
+
+Dans Human :
+
+Dans Hospital, des humains , des chambres
+Ajout fonction se déplacer (x et y) (oui)
+
+chambres :
+    int numero
+    coordonnee(en 4 points) (un rectangle)
+
+deplacer les docteurs et si ils passent dans une chambre, il traite un malade
+
+
+
+Aleas
+Hospital(check pour voir qui est dans une salle)
+Construire fonction contains dans chamber
+
+p1
+p4
+
+p2
+
+p3
